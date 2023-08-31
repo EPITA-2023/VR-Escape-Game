@@ -24,7 +24,7 @@
 
 ## 게임 플레이 방식
 ### 캐릭터 이동 방법
-![7](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/50c6b578-6f2c-414b-87c8-e73daa581c0a)
+![controller](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/61ef587d-68ce-4f54-afee-7a0898e33f61)
 
 ### 맵 구성
 - 3층짜리 폐교를 디자인했습니다.
