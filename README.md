@@ -17,29 +17,29 @@
 - 멤버: 김채연, 김서현, 배유선, 배윤주
 
 ## 게임 설명
-|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/a3c37223-293a-46d1-a2c8-ad9b72d30068)|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/1989ad52-f3de-4c11-99a1-50c613fcd281)|
+|![4](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/df4e1b6a-6175-4146-8bb4-b04031105a63)|![5](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/729c1f04-ceda-483d-937a-070d2f5ccea3)|
 |:---:|:---:|
 |시작 화면|게임 화면|
 
 
 ## 게임 플레이 방식
 ### 캐릭터 이동 방법
-![컨트롤러 사용법](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/b9423519-bc68-4e75-90e8-e9a29beab874)
+![7](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/50c6b578-6f2c-414b-87c8-e73daa581c0a)
 
 ### 맵 구성
 - 3층짜리 폐교를 디자인했습니다.
 
-![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/84ee571a-8464-415d-b80e-4642c51f8a54)
+![6](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/75b24142-ec02-4fac-8902-a385529d0432)
 
 - 위층으로 올라갈수록 퀴즈의 난이도가 올라갑니다.
 
 |1층|2층|3층|
 |---|---|---|
-|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/286799d7-ca30-4f01-b705-051354455239)|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/040182d7-ace1-41ea-8574-4efdd11ddfe9)|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/561373e4-e6e8-4ebf-aba1-f6033287d97e)|
+|![1](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/51db8f39-54fe-46db-9066-144240bbda75)|![2](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/d5e41ee0-7053-4842-98bf-1ff263b1b82a)|![3](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/ff06c5ec-e482-47a7-8562-4ede89b25f3f)|
 |퀴즈 1|퀴즈 2|퀴즈 3|
 
 ### 퀴즈를 풀어 열쇠를 찾으세요!
-![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/19fc3b12-6276-4a9e-88e9-a9fe2df9e9cc)
+![8](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/335e3a53-0f0e-4f3f-9c67-213128a32c97)
 
 ## 플레이 영상 
 ### 1분 미리보기 (음량 주의!)
