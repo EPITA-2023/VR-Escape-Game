@@ -1,3 +1,26 @@
-# VR-Escape-Game
+# VR-Escape-Game : Silence of Death
+**난데없이 폐교에 갇힌 당신! 칠판 속 힌트를 풀어 교실에 숨겨진 열쇠를 찾으세요.**<br>
+하지만 교실에는 무시무시한 괴물들이 우글거리는데.... 절대, 절대 그들을 깨우지 마세요.<br>
+손전등으로 괴물을 비추면 무슨 일이 일어날 지 아무도 모릅니다.<br>
+**...살고 싶나요? 끝까지 침묵을 유지하세요.** 제가 드릴 수 있는 조언은 여기까지입니다.<br> GOOD LUCK!
 
-> ❓ [How to set up a Unity project on GitHub](https://unityatscale.com/unity-version-control-guide/how-to-setup-unity-project-on-github/)
+## 목차
+  - [개요](#개요) 
+  - [게임 설명](#게임-설명)
+  - [게임 플레이 방식](#게임-플레이-방식)
+
+## 개요
+- 프로젝트 이름: Silence of Death
+- 프로젝트 지속기간: 2023.07.24-2023.07.27
+- 개발 엔진 및 언어: Unity & C#
+- 멤버: 
+
+## 게임 설명
+|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/a3c37223-293a-46d1-a2c8-ad9b72d30068)|![image](https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/1989ad52-f3de-4c11-99a1-50c613fcd281)|
+|:---:|:---:|
+|시작 화면|게임 화면|
+
+
+## 게임 플레이 방식
+- 캐릭터 이동 방법
+- 맵의 이동 가능 장소
