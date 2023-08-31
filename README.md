@@ -43,7 +43,7 @@
 
 ## 플레이 영상 
 ### 1분 미리보기 (음량 주의!)
-https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/20d757fe-fd08-4832-9e84-774a213233f9
+https://github.com/EPITA-2023/VR-Escape-Game/assets/69005820/cc4477b9-9b2f-43de-b13a-642058552da2
 - 약간의 편집이 추가되어 있습니다.
 --------------------
 본 게임은 2023 EPITA Summer Camp IoT/VR class에서 제작한 게임입니다.
