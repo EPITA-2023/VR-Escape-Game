@@ -1,4 +1,4 @@
-# VR-Escape-Game : Silence of Death
+# VR-Escape-Game : Silence or Death
 **난데없이 폐교에 갇힌 당신! 칠판 속 힌트를 풀어 교실에 숨겨진 열쇠를 찾으세요.**<br>
 하지만 교실에는 무시무시한 괴물들이 우글거리는데.... 절대, 절대 그들을 깨우지 마세요.<br>
 손전등으로 괴물을 비추면 무슨 일이 일어날 지 아무도 모릅니다.<br>
